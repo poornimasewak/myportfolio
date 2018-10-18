@@ -1,0 +1,1 @@
+<?PHP include('index.html') ?>
